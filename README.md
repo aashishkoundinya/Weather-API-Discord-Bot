@@ -24,7 +24,7 @@ Last run on these versions
 
 * Python (v3.11.3)
 * Node.js (v20.13.1)
-* Python libraries - `nextcord` and `aiohttp`
+* Python libraries - `nextcord`(v2.6.0) and `aiohttp`(v3.9.4)
 * A Discord server
 * A Bot created in Discord Developer Portal (https://discord.com/developers/applications)
 * A WeatherAPI account and API key (https://www.weatherapi.com)
