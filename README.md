@@ -20,6 +20,11 @@ command, and it retrieves real-time temperature, humidity, wind speed, feels lik
 
 **Prerequisites:**
 
+Last run on these versions
+
+* Python (v3.11.3)
+* Node.js (v20.13.1)
+* Python libraries - `nextcord` and `aiohttp`
 * A Discord server
 * A Bot created in Discord Developer Portal (https://discord.com/developers/applications)
 * A WeatherAPI account and API key (https://www.weatherapi.com)
@@ -42,6 +47,10 @@ command, and it retrieves real-time temperature, humidity, wind speed, feels lik
 
 **NOTE** - Enable `PRESENSE INTENT` `SERVER MEMBERS INTENT` `MESSAGE CONTENT INTENT` under the **BOT** section in [Discord Developer Portal](https://discord.com/developers/applications).
 
+**Install the required python Libraries**
+  ```bash
+  pip install nextcord
+  ```
 **Clone the repository:**
 
    ```bash
