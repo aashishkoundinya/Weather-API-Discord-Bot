@@ -1,6 +1,7 @@
 # Weather API Discord Bot
 
-This Discord bot retrieves real-time weather information for any location using the WeatherAPI service.
+This Discord bot acts as your personal weather concierge. Simply use the !weather [city name]
+command, and it retrieves real-time temperature, humidity, wind speed, feels like, and current time for any location. Presented in a visually appealing embed with a weather icon, it empowers you and your server members to stay informed about conditions across the globe.
 
 ## Features
 
