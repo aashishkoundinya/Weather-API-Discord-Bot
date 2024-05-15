@@ -24,6 +24,23 @@ command, and it retrieves real-time temperature, humidity, wind speed, feels lik
 * A Bot created in Discord Developer Portal (https://discord.com/developers/applications)
 * A WeatherAPI account and API key (https://www.weatherapi.com)
 
+##Inviting the Bot##
+
+* Go to the Discord Developer Portal and create a new application.
+* In the "Bot" section, create a bot user and copy the bot token.
+* Visit the "OAuth2" section and click "Add a Scopes". Under "Bot Permissions", grant the following permissions:
+    * Send Messages
+    * Embed Links
+* Click "Copy" next to the "bot token" field. This is the token you'll use in the config.py file.
+* Navigate to the "Authorization" URL and invite the bot to your Discord server.
+
+## Run
+
+* `config.py` - Place the `Discord Bot TOKEN` and the `Weather API_KEY` in the mentioned location.
+* Make sure the bot is present in the desired server.
+* `weather.py` - Simply run the file. The bot should come online.
+
+**NOTE** - Enable `PRESENSE INTENT` `SERVER MEMBERS INTENT` `MESSAGE CONTENT INTENT` under the **BOT** section in [Discord Developer Portal](https://discord.com/developers/applications).
 
 **Clone the repository:**
 
