@@ -48,9 +48,15 @@ Last run on these versions
 **NOTE** - Enable `PRESENSE INTENT` `SERVER MEMBERS INTENT` `MESSAGE CONTENT INTENT` under the **BOT** section in [Discord Developer Portal](https://discord.com/developers/applications).
 
 **Install the required python Libraries**
+  nextcord
   ```bash
   pip install nextcord
   ```
+  aiohttp
+  ```bash
+  pip install aiohttp
+  ```
+
 **Clone the repository:**
 
    ```bash
