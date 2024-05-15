@@ -21,7 +21,8 @@ command, and it retrieves real-time temperature, humidity, wind speed, feels lik
 **Prerequisites:**
 
 * A Discord server
-* A WeatherAPI account and API key (https://www.weatherapi.com/pricing.aspx)
+* A Bot created in Discord Developer Portal (https://discord.com/developers/applications)
+* A WeatherAPI account and API key (https://www.weatherapi.com)
 
 1. **Clone the repository:**
 
